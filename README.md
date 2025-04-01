@@ -15,6 +15,8 @@
 
 - 💼 I have 4 years of experience building scalable full-stack applications
 
+- 👩‍💻 I love programming — it’s my favorite kind of brain workout (with way less sweating 😄)
+
 - 🧩 I'm super into system design and can’t resist a good deep-dive into tech blogs — it’s my version of a bedtime story! 😄
 
 - 🌟 Always up for learning new tech and building side projects that solve real problems
